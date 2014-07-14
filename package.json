@@ -1,0 +1,16 @@
+{
+  "name": "flicker_downloader",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "flickrapi": "^0.3.23",
+    "request": "^2.37.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
